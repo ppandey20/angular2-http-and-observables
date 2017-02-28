@@ -19,8 +19,8 @@ All the essentials. None of the extras. Takes a lot of cues from the Angular [qu
 
 ## Installation
 
-- Clone the repo: `git clone git@github.com:scotch-io/angular2-starter-basic`
-- Choose the new directory: `cd angular2-starter-basic`
+- Clone the repo
+- Choose the new directory
 - Install dependencies: `npm install`
 - Start the app: `npm start`
 - View the app: <http://localhost:3000>
